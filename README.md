@@ -1,19 +1,19 @@
-# Differential Gaussian Rasterization
+# Differential Radar Gaussian Imaging
 
-Used as the rasterization engine for the paper "3D Gaussian Splatting for Real-Time Rendering of Radiance Fields". If you can make use of it in your own research, please be so kind to cite us.
+Used as the cross-section imaging engine for the paper "High-Dynamic Radar Sequence Prediction for Weather Nowcasting Using Spatiotemporal Coherent Gaussian Representation". If you can make use of it in your own research, please be so kind to cite us.
+
+We refer to the source code of [diff-gaussian-rasterization](https://github.com/graphdeco-inria/diff-gaussian-rasterization).
 
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
-    <pre><code>@Article{kerbl3Dgaussians,
-      author       = {Kerbl, Bernhard and Kopanas, Georgios and Leimk{\"u}hler, Thomas and Drettakis, George},
-      title        = {3D Gaussian Splatting for Real-Time Radiance Field Rendering},
-      journal      = {ACM Transactions on Graphics},
-      number       = {4},
-      volume       = {42},
-      month        = {July},
-      year         = {2023},
-      url          = {https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/}
+    <pre><code>@inproceedings{
+    wang2025highdynamic,
+    title={High-Dynamic Radar Sequence Prediction for Weather Nowcasting Using Spatiotemporal Coherent Gaussian Representation},
+    author={Ziye Wang and Yiran Qin and Lin Zeng and Ruimao Zhang},
+    booktitle={The Thirteenth International Conference on Learning Representations},
+    year={2025},
+    url={https://openreview.net/forum?id=Cjz9Xhm7sI}
 }</code></pre>
   </div>
 </section>
